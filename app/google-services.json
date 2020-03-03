@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569250911098",
+    "firebase_url": "https://inboxshopping.firebaseio.com",
+    "project_id": "inboxshopping",
+    "storage_bucket": "inboxshopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569250911098:android:a2aa958eb161acb7247cc3",
+        "android_client_info": {
+          "package_name": "com.waimu.inboxshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569250911098-qnl323e1ig5b5ge3nhnjmi9espid9ob5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waimu.inboxshopping",
+            "certificate_hash": "c76357a60d03b045e98a65e60ce079d6927ead61"
+          }
+        },
+        {
+          "client_id": "569250911098-jfgp9984r65ms6sbqh84pih5v0k01dpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3mgpSqjlPyQibouf-c2SbO0fYdKYZpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569250911098-jfgp9984r65ms6sbqh84pih5v0k01dpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
